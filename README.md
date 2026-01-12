@@ -37,6 +37,7 @@ The goal of this project was not just to clean the data, but to make **correct a
 ---
 
 ## 📂 Project Structure
+
 sql-data-cleaning-project/
 │
 ├── dataset/
