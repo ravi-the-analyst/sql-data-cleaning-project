@@ -71,7 +71,7 @@ This project reflects how **real-world data cleaning is performed in practice**,
 ## Related Repositories
 
 - 🔍 SQL EDA Project  
-  https://github.com/yourusername/customer-churn-eda
+  [https://github.com/yourusername/customer-churn-eda](https://github.com/ravi-the-analyst/Exploratory-Data-Analysis-on-Business-Churn-Data)
 
 ---
 
