@@ -68,6 +68,12 @@ This project reflects how **real-world data cleaning is performed in practice**,
 > it’s about making the **right analytical decisions**.
 
 ---
+## Related Repositories
+
+- 🔍 SQL EDA Project  
+  https://github.com/yourusername/customer-churn-eda
+
+---
 
 ## 🙌 Feedback
 If you notice any issues, better approaches, or improvements in this project,  
